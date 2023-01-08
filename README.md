@@ -1,4 +1,4 @@
-# kivy-recipes-for-make warning: JUST FOR PYTHON2 
+# kivy-recipes-for-make && warning: JUST FOR PYTHON2 
 
 > Step 1: 
 >> Get this zip file it down and put them into a directory.
